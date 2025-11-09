@@ -1,0 +1,13 @@
+__pycache__/
+uploads/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+/.vscode/
+*.log
+node_modules/
+dist/
+.DS_Store
+.env

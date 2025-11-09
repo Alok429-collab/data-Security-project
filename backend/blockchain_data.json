@@ -1,0 +1,179 @@
+{
+  "difficulty": 2,
+  "blocks": [
+    {
+      "index": 0,
+      "timestamp": 1762014288.8750446,
+      "data": {
+        "note": "Genesis Block - Blockchain Initialized",
+        "action": "GENESIS",
+        "timestamp": "2025-11-01T21:54:48.874995",
+        "uploader_id": "system"
+      },
+      "previous_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "nonce": 0,
+      "difficulty": 0,
+      "hash": "c8e0b037152e1a2527fa0275bc627f1a8523d3776fa90f184065e228f62ae1fd"
+    },
+    {
+      "index": 1,
+      "timestamp": 1762014357.2071228,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\test.txt",
+        "file_hash": "2cf24dba5fb0a30e26e83b2ac5b9e29e1b161e5c1fa7425e73043362938b9824",
+        "file_size": 5,
+        "uploader_id": "test",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-01T21:55:57.207114"
+      },
+      "previous_hash": "c8e0b037152e1a2527fa0275bc627f1a8523d3776fa90f184065e228f62ae1fd",
+      "nonce": 262,
+      "difficulty": 2,
+      "hash": "0044ba41d74597d0ea6d252732494d36b13f5e96064c2309a5e8e1182719aab1"
+    },
+    {
+      "index": 2,
+      "timestamp": 1762017690.7404277,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\Syllabus_BT_CSE_III-SEM__23-27_AI_DS_FSDB_12.08.2024.pdf",
+        "file_hash": "18ab59a42e1bae460beacfb818f85f6599b2fba4d5040a337283c59fd5315c98",
+        "file_size": 310532,
+        "uploader_id": "anonymous",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-01T22:51:30.740418"
+      },
+      "previous_hash": "0044ba41d74597d0ea6d252732494d36b13f5e96064c2309a5e8e1182719aab1",
+      "nonce": 12,
+      "difficulty": 2,
+      "hash": "006fbaef54f5d7ca0ddbffd8457ef665c686e8b53b0a148e3abd208399826866"
+    },
+    {
+      "index": 3,
+      "timestamp": 1762153331.7046955,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\test.txt",
+        "file_hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "file_size": 0,
+        "uploader_id": "anonymous",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-03T12:32:11.704686"
+      },
+      "previous_hash": "006fbaef54f5d7ca0ddbffd8457ef665c686e8b53b0a148e3abd208399826866",
+      "nonce": 795,
+      "difficulty": 2,
+      "hash": "00338f8c33d787f563d5128c800e4e487af3aec663db0e65a1c7d6118c6cca3e"
+    },
+    {
+      "index": 4,
+      "timestamp": 1762540813.2833424,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\iv th unit mr and yarn.pdf",
+        "file_hash": "1a4bd168d27df4761220db4a3ee2837ae1bd3826185f75f8e7df9c2f242e6de7",
+        "file_size": 1613033,
+        "uploader_id": "anonymous",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-08T00:10:13.283330"
+      },
+      "previous_hash": "00338f8c33d787f563d5128c800e4e487af3aec663db0e65a1c7d6118c6cca3e",
+      "nonce": 118,
+      "difficulty": 2,
+      "hash": "004e6e4a1e614c2738ad2c1d8bd92ddac013d658062d5a0b41afce4bdd6594f3"
+    },
+    {
+      "index": 5,
+      "timestamp": 1762540826.1402235,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\iv th unit mr and yarn.pdf",
+        "file_hash": "1a4bd168d27df4761220db4a3ee2837ae1bd3826185f75f8e7df9c2f242e6de7",
+        "file_size": 1613033,
+        "uploader_id": "anonymous",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-08T00:10:26.140215"
+      },
+      "previous_hash": "004e6e4a1e614c2738ad2c1d8bd92ddac013d658062d5a0b41afce4bdd6594f3",
+      "nonce": 321,
+      "difficulty": 2,
+      "hash": "002b6d48811d453b99c9f4601093a176004da8ca4e505da7c85413fe930247aa"
+    },
+    {
+      "index": 6,
+      "timestamp": 1762541249.3533943,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\IBM IIIRD UNIT(I)HDP.pdf",
+        "file_hash": "ac716e3bd1f86f0cda1f1aae8dae0dad16b0a1de5b783c1b615e54465728a467",
+        "file_size": 1491730,
+        "uploader_id": "anonymous",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-08T00:17:29.353382"
+      },
+      "previous_hash": "002b6d48811d453b99c9f4601093a176004da8ca4e505da7c85413fe930247aa",
+      "nonce": 91,
+      "difficulty": 2,
+      "hash": "00e1a8b85753585e9bfbcfce74bd32050160c306327c325281ad3ee10ab0a449"
+    },
+    {
+      "index": 7,
+      "timestamp": 1762543363.5330238,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\IBM IIIRD UNIT II PART AMBARI.pdf",
+        "file_hash": "806d069221435c61a3c21fb033bfa0d8bfb520175498a05429027ea63da76f52",
+        "file_size": 1438765,
+        "uploader_id": "",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-08T00:52:43.533015"
+      },
+      "previous_hash": "00e1a8b85753585e9bfbcfce74bd32050160c306327c325281ad3ee10ab0a449",
+      "nonce": 410,
+      "difficulty": 2,
+      "hash": "002a146ea3c15913a366ed13272eab89ab40ec22e0f399023b0ab3aa224ffd96"
+    },
+    {
+      "index": 8,
+      "timestamp": 1762544079.5593777,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\Propositional_Logic.pdf",
+        "file_hash": "bd5933fb9ab8317c32dd3da71530492975b8988edae5780ea3f32e92218e57e2",
+        "file_size": 9072340,
+        "uploader_id": "",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-08T01:04:39.559370"
+      },
+      "previous_hash": "002a146ea3c15913a366ed13272eab89ab40ec22e0f399023b0ab3aa224ffd96",
+      "nonce": 19,
+      "difficulty": 2,
+      "hash": "00f3a8456bb949484b2680cc27a949b68b8f0e485e644ee22f6346dd88527b40"
+    },
+    {
+      "index": 9,
+      "timestamp": 1762544113.8311641,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\Propositional_Logic.pdf",
+        "file_hash": "bd5933fb9ab8317c32dd3da71530492975b8988edae5780ea3f32e92218e57e2",
+        "file_size": 9072340,
+        "uploader_id": "",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-08T01:05:13.831155"
+      },
+      "previous_hash": "00f3a8456bb949484b2680cc27a949b68b8f0e485e644ee22f6346dd88527b40",
+      "nonce": 793,
+      "difficulty": 2,
+      "hash": "00c4033f9e213d6f7872112556c20c8a1f2b5aaa36f1df7f2bd809bb8c685a32"
+    },
+    {
+      "index": 10,
+      "timestamp": 1762546210.9929473,
+      "data": {
+        "filename": "D:\\DS project\\backend\\uploads\\Propositional_Logic.pdf",
+        "file_hash": "bd5933fb9ab8317c32dd3da71530492975b8988edae5780ea3f32e92218e57e2",
+        "file_size": 9072340,
+        "uploader_id": "admin",
+        "action": "FILE_REGISTERED",
+        "timestamp": "2025-11-08T01:40:10.992935"
+      },
+      "previous_hash": "00c4033f9e213d6f7872112556c20c8a1f2b5aaa36f1df7f2bd809bb8c685a32",
+      "nonce": 127,
+      "difficulty": 2,
+      "hash": "00d25168d27aeeeac14b1a0304507e036396345ddde279416669d641740e8e7a"
+    }
+  ]
+}
